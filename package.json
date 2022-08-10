@@ -4,10 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-     "dev": "next",
-  "build": "next build",
-  "start": "next start",
-  "export": "next export"
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
   },
   "repository": {
     "type": "git",
