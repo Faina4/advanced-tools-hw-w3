@@ -98,7 +98,7 @@ p {
   h2{
     font-size: 28px;
   }
-  h3{
+  h3, .email-link{
     font-size: 20px;
   }
   p {
@@ -111,7 +111,7 @@ p {
  }
  @media (max-width: 500px){
   body{
-   background-color: rgb(181, 231, 145);
+   background-color: rgb(202, 219, 189);
   }
   h1{
     font-size: 36px;
@@ -119,7 +119,7 @@ p {
   h2{
     font-size: 25px;
   }
-  h3{
+  h3, .email-link{
     font-size: 18px;
   }
   p {
@@ -127,7 +127,7 @@ p {
   }
 
   .bg-light {
-    background-color: #91b277!important;
+    background-color: #dbb8e9!important;
 }
  
   }
